@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# AWS Credentials (NEVER COMMIT THESE!)
+.aws/
+*.pem
+credentials
+config
+
+# Secrets and API Keys
+.env
+.env.local
+secrets.json
+kaggle.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Lambda Layers (too large for GitHub)
+kaggle-layer/
+kaggle-layer.zip
+*-layer.zip
+layer-*.zip
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+# Python Dependencies for ATP Tennis Analysis Project
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Kaggle API (custom Lambda layer)
+kaggle>=1.5.13
+
+# AWS SDK (included in Lambda runtime, but listed for reference)
+boto3>=1.26.0
