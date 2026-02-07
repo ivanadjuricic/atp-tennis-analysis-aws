@@ -233,29 +233,35 @@ atp-tennis-analysis-aws/
 
 ## 📸 Screenshots
 
-### CloudWatch Logs - Successful Execution
-![CloudWatch Logs](screenshots/cloudwatch-logs.jpg)
+### CloudWatch Logs – Successful Execution
+![CloudWatch Logs 1](screenshots/cloudwatch-logs-1.jpg)
+![CloudWatch Logs 2](screenshots/cloudwatch-logs-2.jpg)
+![CloudWatch Logs 3](screenshots/cloudwatch-logs-3.jpg)
 
 ### Lambda Configuration
-![Lambda Config](screenshots/lambda-configuration.jpg)
+![Lambda Configuration](screenshots/lambda-configuration.jpg)
+![Lambda Configuration Test Success](screenshots/lambda-configuration_test-success.jpg)
 
 ### EventBridge Scheduler
-![EventBridge](screenshots/eventbridge-rule.jpg)
+![EventBridge Rule](screenshots/eventbridge-rule.jpg)
 
 ### S3 Output Bucket
-![S3 Bucket](screenshots/s3-bucket-output.jpg,s3-bucket-output_excel.jpg)
+![S3 Bucket Output](screenshots/s3-bucket-output.jpg)
+![S3 Bucket Output Excel](screenshots/s3-bucket-output_excel.jpg)
 
 ### Lambda Layers
-![Layers](screenshots/kaggle-layer-created.jpg,Custom-kaggle-layer-created-Docker-Desktop.jpg,pandas-kaggle-layer_implemented.jpg)
+![Kaggle Layer Created](screenshots/kaggle-layer-created.jpg)
+![Custom Kaggle Layer Docker](screenshots/Custom-kaggle-layer-created-Docker-Desktop.jpg)
+![Pandas Kaggle Layer Implemented](screenshots/pandas-kaggle-layer_implemented.jpg)
 
 ### Environment Variables
-![env variables](lambda-env-variables-redacted.jpg)
+![Lambda Environment Variables](screenshots/lambda-env-variables-redacted.jpg)
 
-### Permission roles
-![Permission roles](Permissions-roles.jpg)
+### Permission Roles
+![Permission Roles](screenshots/Permissions-roles.jpg)
 
-### Timeout memory
-![Timeout memory](Timeout-memory.jpg)
+### Timeout and Memory
+![Timeout and Memory](screenshots/Timeout-memory.jpg)
 
 ---
 
