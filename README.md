@@ -267,7 +267,7 @@ atp-tennis-analysis-aws/
 
 ## 📄 Documentation
 
-Full technical report available: [Project Report PDF](docs/project-report.pdf)
+Full technical report available: [Project Report PDF](docs/atp-tennis-analysis-project-report.pdf)
 
 ---
 
